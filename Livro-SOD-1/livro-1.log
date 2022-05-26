@@ -1,0 +1,2205 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.8)  15 MAY 2022 09:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**livro-1.tex
+(./livro-1.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2019/11/21 v3.7j configurable book, report, article docu
+ment class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count167
+\c@@memmarkcntra=\count168
+LaTeX Info: Redefining \InputIfFileExists on input line 140.
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count169
+\memPD=\dimen134
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count170
+\c@part=\count171
+\c@chapter=\count172
+\c@section=\count173
+\c@subsection=\count174
+\c@subsubsection=\count175
+\c@paragraph=\count176
+\c@subparagraph=\count177
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count178
+\c@@ppsaveapp=\count179
+\ragrparindent=\dimen135
+\everylistparindent=\dimen136
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks14
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen137
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count180
+\c@poemline=\count181
+\c@modulo@vs=\count182
+\c@memfvsline=\count183
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen138
+\c@verse=\count184
+\c@chrsinstr=\count185
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count186
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box45
+\extrarowheight=\dimen140
+\NC@list=\toks15
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count187
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen146
+\lightrulewidth=\dimen147
+\cmidrulewidth=\dimen148
+\belowrulesep=\dimen149
+\belowbottomsep=\dimen150
+\aboverulesep=\dimen151
+\abovetopsep=\dimen152
+\cmidrulesep=\dimen153
+\cmidrulekern=\dimen154
+\defaultaddspace=\dimen155
+\@cmidla=\count188
+\@cmidlb=\count189
+\@aboverulesep=\dimen156
+\@belowrulesep=\dimen157
+\@thisruleclass=\count190
+\@lastruleclass=\count191
+\@thisrulewidth=\dimen158
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count192
+\@linestogo=\count193
+\@cellstogo=\count194
+\@cellsincolumn=\count195
+\crtok=\toks17
+\@mincolumnwidth=\dimen159
+\c@newflo@tctr=\count196
+\mem@margin@floatbox=\box47
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen160
+\c@@contsubnum=\count197
+\m@mscap@capbox=\box48
+\m@mscap@fbox=\box49
+\sidecapsep=\dimen161
+\sidecapwidth=\dimen162
+\m@m@tempdima=\dimen163
+\m@mscapraise=\dimen164
+\sidecapraise=\dimen165
+\m@mscapmainwidth=\dimen166
+\m@mscaplkern=\dimen167
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7662.
+LaTeX Info: Redefining \emph on input line 7670.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen168
+\cftbooknumwidth=\dimen169
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen170
+\c@maxsecnumdepth=\count198
+\bibindent=\dimen171
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen172
+\glossaryrule=\dimen173
+\sideparvshift=\skip162
+\sideins=\insert252
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert251
+\@mpfootinsv@r=\insert250
+\m@m@k=\count266
+\m@m@h=\dimen174
+\m@mipn@skip=\skip171
+\sidefootins=\insert249
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count267
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count268
+\c@pagenoteshadow=\count269
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count270
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count271
+\c@bvlinectr=\count272
+\bvnumlength=\skip184
+\fb@frw=\dimen175
+\fb@frh=\dimen176
+\FrameRule=\dimen177
+\FrameSep=\dimen178
+\c@cp@cntr=\count273
+LaTeX Info: Redefining \: on input line 12187.
+LaTeX Info: Redefining \! on input line 12189.
+\c@ism@mctr=\count274
+\c@xsm@mctr=\count275
+\c@csm@mctr=\count276
+\c@ksm@mctr=\count277
+\c@xksm@mctr=\count278
+\c@cksm@mctr=\count279
+\c@msm@mctr=\count280
+\c@xmsm@mctr=\count281
+\c@cmsm@mctr=\count282
+\c@bsm@mctr=\count283
+\c@workm@mctr=\count284
+\c@sheetsequence=\count285
+\c@lastsheet=\count286
+\c@lastpage=\count287
+
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count288
+\c@lofdepth=\count289
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count290
+\c@lotdepth=\count291
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen179
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+\pdfmajorversion=\count295
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count296
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen180
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count301
+\c@Hpagenote=\count302
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count303
+\c@bookmark@seq@number=\count304
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip191
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2019/12/03 v1.28 bookmark driver for pdfTeX (HO)
+\BKM@id=\count305
+))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count306
+\U@D=\dimen183
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count307
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language48) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language48) on input line 108.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+Package babel Info: \l@brazil = using hyphenrules for portuguese
+(babel)             (\language22) on input line 113.
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip192
+\enit@outerparindent=\dimen184
+\enit@toks=\toks23
+\enit@inbox=\box50
+\enit@count@id=\count308
+\enitdp@description=\count309
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count310
+\calc@Bcount=\count311
+\calc@Adimen=\dimen185
+\calc@Bdimen=\dimen186
+\calc@Askip=\skip193
+\calc@Bskip=\skip194
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count312
+\calc@Cskip=\skip195
+)
+
+******************************************************
+Stock height and width: 794.96999pt by 614.295pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 794.96999pt by 614.295pt
+Text height and width: 664.5pt by 472pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 45.11172pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+\c@abntex@bookmarkcounter=\count313
+\cftlastnumwidth=\skip196
+\chapternamenumlength=\skip197
+\ABNTEXcitacaorecuo=\skip198
+\c@alineasi=\count314
+\c@alineasii=\count315
+\enitdp@alineas=\count316
+\c@subalineasi=\count317
+\enitdp@subalineas=\count318
+\c@incisosi=\count319
+\enitdp@incisos=\count320
+\ABNTEXsignwidth=\skip256
+\ABNTEXsignthickness=\skip257
+\ABNTEXsignskip=\skip258
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip259
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen187
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen188
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count321
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count322
+\leftroot@=\count323
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count324
+\DOTSCASE@=\count325
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen189
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count326
+\c@MaxMatrixCols=\count327
+\dotsspace@=\muskip17
+\c@parentequation=\count328
+\dspbrk@lvl=\count329
+\tag@help=\toks27
+\row@=\count330
+\column@=\count331
+\maxfields@=\count332
+\andhelp@=\toks28
+\eqnshift@=\dimen190
+\alignsep@=\dimen191
+\tagshift@=\dimen192
+\tagwidth@=\dimen193
+\totwidth@=\dimen194
+\lineht@=\dimen195
+\@envbody=\toks29
+\multlinegap=\skip260
+\multlinetaggap=\skip261
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count333
+\l_MT_multwidth_dim=\dimen196
+\origjot=\skip262
+\l_MT_shortvdotswithinadjustabove_dim=\dimen197
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen198
+\l_MT_above_intertext_sep=\dimen256
+\l_MT_below_intertext_sep=\dimen257
+\l_MT_above_shortintertext_sep=\dimen258
+\l_MT_below_shortintertext_sep=\dimen259
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/newtxmath.sty
+Package: newtxmath 2020/01/25 v1.624
+
+`newtxmath' v1.624, 2020/01/25 Math macros based originally on txfonts (msharpe
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count334
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count335
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count336
+
+(/usr/share/texlive/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count337
+\tx@IsAlNum=\count338
+\tx@tA=\toks33
+\tx@tB=\toks34
+\tx@su=\read4
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/m/n on input line 317.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/b/n on input line 318.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 326.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 326.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/m/it on input line 327.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmr/m/it on input line 327.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 328.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 328.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmr/b/n on input line 330.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/m/it --> OT1/cmr/b/it on input line 331.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 332.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 333.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 422.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 423.
+LaTeX Info: Redefining \mathscr on input line 455.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 476.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 478.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 497.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 498.
+\symAMSm=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 521.
+\symsymbolsC=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 542.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 5
+55.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 555
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 555.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 556.
+\symlargesymbolsTXA=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 570.
+\tx@sbptoks=\toks35
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 792.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 793.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 794.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 795.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 796.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 797.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 798.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 800.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 804.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 805.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 876.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 877.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1940.
+\ntx@numstart=\count339
+\ntx@UCstart=\count340
+\ntx@lcstart=\count341
+\ntx@tmpc=\count342
+\ntx@imath=\count343
+\ntx@jmath=\count344
+LaTeX Info: Redefining \Bbbk on input line 2449.
+LaTeX Info: Redefining \not on input line 2598.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/Alegreya.sty
+Package: Alegreya 2019/10/12 (Bob Tennent) Supports Alegreya and AlegreyaSC fon
+ts for all LaTeX engines. 
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/AlegreyaSans.sty
+Package: AlegreyaSans 2019/10/12 (Bob Tennent) Supports AlegreyaSans fonts for 
+all LaTeX engines. 
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for OT1+Alegreya-LF on inpu
+t line 112.
+
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/OT1Alegreya-LF.fd
+File: OT1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for OT1/Alegreya
+-LF.
+)
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' in size <12> not available
+
+(Font)              Font shape `OT1/Alegreya-LF/regular/n' tried instead on inp
+ut line 112.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+)
+LaTeX Info: Redefining \textsu on input line 338.
+LaTeX Info: Redefining \textin on input line 339.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fira/FiraMono.sty
+Package: FiraMono 2019/10/10 (Bob Tennent and autoinst) Style file for Fira Mon
+o fonts.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+))
+(/usr/share/texlive/texmf-dist/tex/latex/mathastext/mathastext.sty
+Package: mathastext 2019/11/16 v1.3w Use the text font in math mode (JFB)
+\mst@exists@muskip=\muskip18
+\mst@forall@muskip=\muskip19
+\mst@prime@muskip=\muskip20
+\mst@do@nonletters=\toks36
+\mst@do@easynonletters=\toks37
+\mst@do@az=\toks38
+\mst@do@AZ=\toks39
+\symmtoperatorfont=\mathgroup11
+\symmtletterfont=\mathgroup12
+
+** ! and ?
+** punctuation: , . : ; and \colon
+LaTeX Info: Redefining \rightarrowfill on input line 790.
+LaTeX Info: Redefining \leftarrowfill on input line 795.
+** + and =
+** adding = ; and + to \nfss@catcodes
+** parentheses ( ) [ ] and slash /
+** \# \mathdollar \% \& 
+** \imath and \jmath 
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
+mal'
+(Font)                  OT1/Alegreya-LF/b/it --> OT1/Alegreya-LF/b/it on input 
+line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
+d'
+(Font)                  OT1/Alegreya-LF/b/it --> OT1/Alegreya-LF/b/it on input 
+line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
+(Font)                  OT1/Alegreya-LF/m/it --> OT1/Alegreya-LF/m/it on input 
+line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
+(Font)                  OT1/Alegreya-LF/m/it --> OT1/Alegreya-LF/b/it on input 
+line 2140.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
+'
+(Font)                  OT1/Alegreya-LF/m/n --> OT1/Alegreya-LF/m/n on input li
+ne 2140.
+LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
+(Font)                  OT1/Alegreya-LF/m/n --> OT1/Alegreya-LF/b/n on input li
+ne 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
+(Font)                  OT1/Alegreya-LF/b/n --> OT1/Alegreya-LF/b/n on input li
+ne 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
+(Font)                  OT1/Alegreya-LF/b/n --> OT1/Alegreya-LF/b/n on input li
+ne 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
+(Font)                  OT1/Alegreya-LF/m/it --> OT1/Alegreya-LF/m/it on input 
+line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
+(Font)                  OT1/Alegreya-LF/m/it --> OT1/Alegreya-LF/b/it on input 
+line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
+(Font)                  OT1/AlegreyaSans-LF/m/n --> OT1/AlegreyaSans-LF/m/n on 
+input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `bold'
+(Font)                  OT1/AlegreyaSans-LF/m/n --> OT1/AlegreyaSans-LF/b/n on 
+input line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
+(Font)                  OT1/FiraMono-TLF/m/n --> OT1/FiraMono-TLF/m/n on input 
+line 2140.
+LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
+(Font)                  OT1/FiraMono-TLF/m/n --> OT1/FiraMono-TLF/b/n on input 
+line 2140.
+** Latin letters in the normal (resp. bold) math versions are now
+** set up to use the fonts OT1/Alegreya-LF/m(b)/it
+** Other characters (digits, ...) and \log-like names will be
+** typeset with the n shape.
+** \hbar
+** minus as endash
+** \Huge and \HUGE have been (re)-defined.
+** mathastext has declared larger sizes for subscripts.
+** To keep LaTeX defaults, use option `defaultmathsizes'.
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks40
+\MT@count=\count345
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen260
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count346
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip263
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen261
+\Gin@req@width=\dimen262
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count347
+\rotFPtop=\skip264
+\rotFPbot=\skip265
+\rot@float@box=\box53
+\rot@mess@toks=\toks41
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count348
+\l__pdf_internal_box=\box54
+))
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count349
+\g__xparse_grabber_int=\count350
+\l__xparse_m_args_int=\count351
+\l__xparse_v_nesting_int=\count352
+)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+\c@abspage=\count353
+Package zref Info: New property: abspage on input line 66.
+)
+\mdf@templength=\skip266
+\c@mdf@globalstyle@cnt=\count354
+\mdf@skipabove@length=\skip267
+\mdf@skipbelow@length=\skip268
+\mdf@leftmargin@length=\skip269
+\mdf@rightmargin@length=\skip270
+\mdf@innerleftmargin@length=\skip271
+\mdf@innerrightmargin@length=\skip272
+\mdf@innertopmargin@length=\skip273
+\mdf@innerbottommargin@length=\skip274
+\mdf@splittopskip@length=\skip275
+\mdf@splitbottomskip@length=\skip276
+\mdf@outermargin@length=\skip277
+\mdf@innermargin@length=\skip278
+\mdf@linewidth@length=\skip279
+\mdf@innerlinewidth@length=\skip280
+\mdf@middlelinewidth@length=\skip281
+\mdf@outerlinewidth@length=\skip282
+\mdf@roundcorner@length=\skip283
+\mdf@footenotedistance@length=\skip284
+\mdf@userdefinedwidth@length=\skip285
+\mdf@needspace@length=\skip286
+\mdf@frametitleaboveskip@length=\skip287
+\mdf@frametitlebelowskip@length=\skip288
+\mdf@frametitlerulewidth@length=\skip289
+\mdf@frametitleleftmargin@length=\skip290
+\mdf@frametitlerightmargin@length=\skip291
+\mdf@shadowsize@length=\skip292
+\mdf@extratopheight@length=\skip293
+\mdf@subtitleabovelinewidth@length=\skip294
+\mdf@subtitlebelowlinewidth@length=\skip295
+\mdf@subtitleaboveskip@length=\skip296
+\mdf@subtitlebelowskip@length=\skip297
+\mdf@subtitleinneraboveskip@length=\skip298
+\mdf@subtitleinnerbelowskip@length=\skip299
+\mdf@subsubtitleabovelinewidth@length=\skip300
+\mdf@subsubtitlebelowlinewidth@length=\skip301
+\mdf@subsubtitleaboveskip@length=\skip302
+\mdf@subsubtitlebelowskip@length=\skip303
+\mdf@subsubtitleinneraboveskip@length=\skip304
+\mdf@subsubtitleinnerbelowskip@length=\skip305
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box55
+\mdf@footnotebox=\box56
+\mdf@splitbox@one=\box57
+\mdf@splitbox@two=\box58
+\mdf@splitbox@save=\box59
+\mdfsplitboxwidth=\skip306
+\mdfsplitboxtotalwidth=\skip307
+\mdfsplitboxheight=\skip308
+\mdfsplitboxdepth=\skip309
+\mdfsplitboxtotalheight=\skip310
+\mdfframetitleboxwidth=\skip311
+\mdfframetitleboxtotalwidth=\skip312
+\mdfframetitleboxheight=\skip313
+\mdfframetitleboxdepth=\skip314
+\mdfframetitleboxtotalheight=\skip315
+\mdffootnoteboxwidth=\skip316
+\mdffootnoteboxtotalwidth=\skip317
+\mdffootnoteboxheight=\skip318
+\mdffootnoteboxdepth=\skip319
+\mdffootnoteboxtotalheight=\skip320
+\mdftotallinewidth=\skip321
+\mdfboundingboxwidth=\skip322
+\mdfboundingboxtotalwidth=\skip323
+\mdfboundingboxheight=\skip324
+\mdfboundingboxdepth=\skip325
+\mdfboundingboxtotalheight=\skip326
+\mdf@freevspace@length=\skip327
+\mdf@horizontalwidthofbox@length=\skip328
+\mdf@verticalmarginwhole@length=\skip329
+\mdf@horizontalspaceofbox=\skip330
+\mdfsubtitleheight=\skip331
+\mdfsubsubtitleheight=\skip332
+\c@mdfcountframes=\count355
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count356
+\c@mdf@env@i=\count357
+\c@mdf@env@ii=\count358
+\c@mdf@zref@counter=\count359
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count360
+\mult@box=\box60
+\multicol@leftmargin=\dimen263
+\c@unbalance=\count361
+\c@collectmore=\count362
+\doublecol@number=\count363
+\multicoltolerance=\count364
+\multicolpretolerance=\count365
+\full@width=\dimen264
+\page@free=\dimen265
+\premulticols=\dimen266
+\postmulticols=\dimen267
+\multicolsep=\skip333
+\multicolbaselineskip=\skip334
+\partial@page=\box61
+\last@line=\box62
+\maxbalancingoverflow=\dimen268
+\mult@rightbox=\box63
+\mult@grightbox=\box64
+\mult@gfirstbox=\box65
+\mult@firstbox=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\c@minrows=\count366
+\c@columnbadness=\count367
+\c@finalcolumnbadness=\count368
+\last@try=\dimen269
+\multicolovershoot=\dimen270
+\multicolundershoot=\dimen271
+\mult@nat@firstbox=\box104
+\colbreak@box=\box105
+\mc@col@check@num=\count369
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
+
+(/usr/share/texlive/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count370
+)
+\c@DefaultLines=\count371
+\c@DefaultDepth=\count372
+\DefaultFindent=\dimen272
+\DefaultNindent=\dimen273
+\DefaultSlope=\dimen274
+\DiscardVskip=\dimen275
+\L@lbox=\box106
+\L@tbox=\box107
+\c@L@lines=\count373
+\c@L@depth=\count374
+\L@Pindent=\dimen276
+\L@Findent=\dimen277
+\L@Nindent=\dimen278
+\L@lraise=\dimen279
+\L@first=\dimen280
+\L@next=\dimen281
+\L@slope=\dimen282
+\L@height=\dimen283
+\L@novskip=\dimen284
+\L@target@ht=\dimen285
+\L@target@dp=\dimen286
+\L@target@tht=\dimen287
+\LettrineWidth=\dimen288
+\LettrineHeight=\dimen289
+\LettrineDepth=\dimen290
+\Llist@everypar=\toks42
+
+Loading lettrine.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/leading/leading.sty
+Package: leading 2008/12/11 v0.3 Define leading length
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2020/01/14 v1.40 Bibliographical back referencing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+
+Class memoir Warning: For the caption package to function properly with memoir,
+ we will now reset\caption and friends to kernel defaults and then let the capt
+ion package take over. Remember: all caption configuration now goves via the ca
+ption package interface, not the interface from the memoir class. .
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen291
+\captionmargin@=\dimen292
+\captionwidth=\dimen293
+\caption@tempdima=\dimen294
+\caption@indent=\dimen295
+\caption@parindent=\dimen296
+\caption@hangindent=\dimen297
+Package caption Info: memoir document class detected.
+)
+\c@caption@flags=\count375
+\c@continuedfloat=\count376
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+)
+\c@subfigure=\count377
+\c@subtable=\count378
+)
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+\minimumbiblabelwidth=\skip335
+\ABCIauxlen=\skip336
+\c@ABCIaux=\count379
+\c@ABCImax=\count380
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip337
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 862.
+\ABCItoken=\toks43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+Alegreya-LF on input
+ line 112.
+
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/T1Alegreya-LF.fd
+File: T1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for T1/Alegreya-L
+F.
+)
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <12> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 112.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 112.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count381
+\lst@gtempboxa=\box108
+\lst@token=\toks44
+\lst@length=\count382
+\lst@currlwidth=\dimen298
+\lst@column=\count383
+\lst@pos=\count384
+\lst@lostspace=\dimen299
+\lst@width=\dimen300
+\lst@newlines=\count385
+\lst@lineno=\count386
+\lst@maxwidth=\dimen301
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count387
+\lst@skipnumbers=\count388
+\lst@framebox=\box109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+\cftbeforelstlistingskip=\skip338
+\cftlstlistingindent=\skip339
+\cftlstlistingnumwidth=\skip340
+Package hyperref Info: Option `colorlinks' set `true' on input line 139.
+
+
+******************************************************
+Stock height and width: 794.96999pt by 614.295pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 794.96999pt by 614.295pt
+Text height and width: 623.81168pt by 443pt
+Spine and edge margins: 71.13188pt and 99.58464pt
+Upper and lower margins: 71.13188pt and 100.02643pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 85.58464pt
+Sidecapsep and sidecapwidth: 7pt and 102pt
+Sidebarhsep and sidebarwidth: 7pt and 102pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 546.64995pt
+Sidefoothsep and sidefootwidth: 7pt and 102pt
+Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
+******************************************************
+
+(./livro-1.aux)
+\openout1 = `livro-1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 175.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 175.
+ (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 175.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+175.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 175.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 175.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 175.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 175.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 175.
+\AtBeginShipoutBox=\box110
+Package hyperref Info: Link coloring ON on input line 175.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count389
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 175.
+LaTeX Info: Redefining \ref on input line 175.
+LaTeX Info: Redefining \pageref on input line 175.
+LaTeX Info: Redefining \nameref on input line 175.
+\myptabbox=\box111
+\myptabboxwidth=\skip341
+\c@mv@tabular=\count390
+\c@mv@boldtabular=\count391
+Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
+nput line 175.
+LaTeX Info: Redefining \microtypecontext on input line 175.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 175.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Alegreya-LF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count392
+\scratchdimen=\dimen302
+\scratchbox=\box112
+\nofMPsegments=\count393
+\nofMParguments=\count394
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count395
+\MPscratchDim=\dimen303
+\MPnumerator=\count396
+\makeMPintoPDFobject=\count397
+\everyMPtoPDFconversion=\toks46
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count398
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <24.88> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 183.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 24.88pt on input line 183.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <30> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 187.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 30.0pt on input line 187.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <30> not available
+
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 190.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 30.0pt on input line 190.
+
+
+! Package inputenc Error: Unicode character  (U+E0C9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193  
+           %este é um símbolo que só aparecerá com a fonte Minion.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <17.28> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 195.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 17.28pt on input line 195.
+
+! Package inputenc Error: Unicode character  (U+E0BF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.196 
+          %este é um símbolo que só aparecerá com a fonte Minion.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.204 \end{dedicatoria}
+                        [1]pdfTeX warning (ext4): destination with the same ide
+ntifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.204 \end{dedicatoria}
+                        [2
+
+]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <30> not available
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
+ine 206.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 30.0pt on input line 206.
+LaTeX Font Info:    Trying to load font information for T1+AlegreyaSans-LF on i
+nput line 206.
+
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/T1AlegreyaSans-LF.fd
+File: T1AlegreyaSans-LF.fd 2019/10/08 (autoinst) Font definitions for T1/Alegre
+yaSans-LF.
+)
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' in size <30> not availa
+ble
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/n' tried instead on inp
+ut line 206.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/n' will be
+(Font)              scaled to size 30.0pt on input line 206.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `AlegreyaSans-LF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+[3] [4
+
+]
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/n' in size <12> not availa
+ble
+(Font)              Font shape `T1/AlegreyaSans-LF/regular/n' tried instead on 
+input line 208.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 208.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sc' in size <17.28> not availa
+ble
+(Font)              Font shape `T1/Alegreya-LF/regular/sc' tried instead on inp
+ut line 208.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sc' will be
+(Font)              scaled to size 17.28pt on input line 208.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/sc' in size <17.28> not availa
+ble
+(Font)              Font shape `T1/Alegreya-LF/bold/sc' tried instead on input 
+line 208.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/sc' will be
+(Font)              scaled to size 17.28pt on input line 208.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/sc' in size <17.28> not av
+ailable
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/sc' tried instead on in
+put line 208.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/sc' will be
+(Font)              scaled to size 17.28pt on input line 208.
+ (./livro-1.toc
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/b/n' in size <12> not availa
+ble
+(Font)              Font shape `T1/AlegreyaSans-LF/bold/n' tried instead on inp
+ut line 3.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
+File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Alegreya-LF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' in size <10> not available
+
+(Font)              Font shape `OT1/Alegreya-LF/regular/n' tried instead on inp
+ut line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' in size <8> not available
+(Font)              Font shape `OT1/Alegreya-LF/regular/n' tried instead on inp
+ut line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' in size <12> not availabl
+e
+(Font)              Font shape `OT1/Alegreya-LF/regular/it' tried instead on in
+put line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 12.0pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' in size <10> not availabl
+e
+(Font)              Font shape `OT1/Alegreya-LF/regular/it' tried instead on in
+put line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' in size <8> not available
+
+(Font)              Font shape `OT1/Alegreya-LF/regular/it' tried instead on in
+put line 3.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 8.0pt on input line 3.
+) [5] (./livro-1.lof
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+ [6])
+[7] (./livro-1.lol) [8]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/sc' in size <12> not available
+
+(Font)              Font shape `T1/Alegreya-LF/regular/sc' tried instead on inp
+ut line 226.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/sc' will be
+(Font)              scaled to size 12.0pt on input line 226.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <31.35666> not avai
+lable
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 226.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 31.35666pt on input line 226.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <48.57755> not avai
+lable
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 226.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 48.57755pt on input line 226.
+Package lettrine.sty Info: Targeted height = 24.12045pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 31.35677pt (E) loversize=0.3;
+(lettrine.sty)             reported on input line 226.
+LaTeX Font Info:    Trying to load font information for T1+FiraMono-TLF on inpu
+t line 231.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fira/T1FiraMono-TLF.fd
+File: T1FiraMono-TLF.fd 2019/10/10 (autoinst) Font definitions for T1/FiraMono-
+TLF.
+)
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/m/n' in size <12> not available
+
+(Font)              Font shape `T1/FiraMono-TLF/regular/n' tried instead on inp
+ut line 231.
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 231.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FiraMono-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [9
+
+
+]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 250.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 250.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <10> not available
+
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 250.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 250.
+ [10]
+Package lettrine.sty Info: Targeted height = 24.12045pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 31.35677pt (V) loversize=0.3;
+(lettrine.sty)             reported on input line 251.
+<pendulo.png, id=186, 296.10625pt x 232.87pt>
+File: pendulo.png Graphic file (type png)
+<use pendulo.png>
+Package pdftex.def Info: pendulo.png  used on input line 255.
+(pdftex.def)             Requested size: 148.05275pt x 116.43471pt.
+
+[11
+
+ <./pendulo.png>]
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/n' in size <17.28> not ava
+ilable
+(Font)              Font shape `T1/AlegreyaSans-LF/regular/n' tried instead on 
+input line 322.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/regular/n' will be
+(Font)              scaled to size 17.28pt on input line 322.
+ [12pdfTeX warning (ext4): destination with the same identifier (name{equation.
+1.0.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.332 \end{equation}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.1.0.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.332 \end{equation}
+                    ]
+<pendulo-2.png, id=215, 666.49pt x 345.29pt>
+File: pendulo-2.png Graphic file (type png)
+<use pendulo-2.png>
+Package pdftex.def Info: pendulo-2.png  used on input line 348.
+(pdftex.def)             Requested size: 333.24419pt x 172.64456pt.
+ [13 <./pendulo-2.png>]
+LaTeX Font Info:    Trying to load font information for TS1+Alegreya-LF on inpu
+t line 379.
+
+(/usr/share/texlive/texmf-dist/tex/latex/alegreya/TS1Alegreya-LF.fd
+File: TS1Alegreya-LF.fd 2019/10/08 (autoinst) Font definitions for TS1/Alegreya
+-LF.
+)
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/m/n' in size <12> not available
+
+(Font)              Font shape `TS1/Alegreya-LF/regular/n' tried instead on inp
+ut line 379.
+LaTeX Font Info:    Font shape `TS1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 379.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Alegreya-LF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [14pdfTeX warning (ext4): destination with the same identifier (name{equation.
+1.1.12}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.430 \end{eqnarray}
+                    ]
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/b/n' in size <12> not available
+(Font)              Font shape `T1/Alegreya-LF/bold/n' tried instead on input l
+ine 447.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 447.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/it' in size <12> not available
+
+(Font)              Font shape `T1/Alegreya-LF/regular/it' tried instead on inp
+ut line 447.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 12.0pt on input line 447.
+ [15pdfTeX warning (ext4): destination with the same identifier (name{equation.
+1.1.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.488       \end{eqnarray}
+                          pdfTeX warning (ext4): destination with the same iden
+tifier (name{equation.1.1.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.488       \end{eqnarray}
+                          pdfTeX warning (ext4): destination with the same iden
+tifier (name{equation.1.1.20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.488       \end{eqnarray}
+                          ] [16pdfTeX warning (ext4): destination with the same
+ identifier (name{equation.1.1.20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.529 \end{eqnarray}
+                    ] [17pdfTeX warning (ext4): destination with the same ident
+ifier (name{equation.1.2.29}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.575 \end{equation}
+                    ] [18] [19pdfTeX warning (ext4): destination with the same 
+identifier (name{equation.1.2.48}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.657 \end{eqnarray}
+                    ]
+<Eliptica.png, id=323, 462.528pt x 346.896pt>
+File: Eliptica.png Graphic file (type png)
+<use Eliptica.png>
+Package pdftex.def Info: Eliptica.png  used on input line 673.
+(pdftex.def)             Requested size: 231.26343pt x 173.44757pt.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <10.95> not availab
+le
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 681.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 681.
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/m/n' in size <10.95> not availa
+ble
+(Font)              Font shape `T1/FiraMono-TLF/regular/n' tried instead on inp
+ut line 681.
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 681.
+ (./eliptica.py
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/m/n' in size <8> not available
+(Font)              Font shape `T1/Alegreya-LF/regular/n' tried instead on inpu
+t line 1.
+LaTeX Font Info:    Font shape `T1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 1.
+ [20 <./Eliptica.png>]) [21]
+<Periodo.png, id=365, 462.528pt x 346.896pt>
+File: Periodo.png Graphic file (type png)
+<use Periodo.png>
+Package pdftex.def Info: Periodo.png  used on input line 703.
+(pdftex.def)             Requested size: 231.26343pt x 173.44757pt.
+ (./periodo.py
+Underfull \vbox (badness 3471) has occurred while \output is active []
+
+ [22 <./Periodo.png>]) (./theta-tempo.py [23])
+<teta-0-01pi.png, id=426, 462.528pt x 346.896pt>
+File: teta-0-01pi.png Graphic file (type png)
+<use teta-0-01pi.png>
+Package pdftex.def Info: teta-0-01pi.png  used on input line 722.
+(pdftex.def)             Requested size: 243.65135pt x 182.74242pt.
+
+Overfull \hbox (22.15135pt too wide) in paragraph at lines 722--723
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' in size <10.95> not availa
+ble
+(Font)              Font shape `OT1/Alegreya-LF/regular/n' tried instead on inp
+ut line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' in size <9> not available
+(Font)              Font shape `OT1/Alegreya-LF/regular/n' tried instead on inp
+ut line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/n' in size <7> not available
+(Font)              Font shape `OT1/Alegreya-LF/regular/n' tried instead on inp
+ut line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' in size <10.95> not avail
+able
+(Font)              Font shape `OT1/Alegreya-LF/regular/it' tried instead on in
+put line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' in size <9> not available
+
+(Font)              Font shape `OT1/Alegreya-LF/regular/it' tried instead on in
+put line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/m/it' in size <7> not available
+
+(Font)              Font shape `OT1/Alegreya-LF/regular/it' tried instead on in
+put line 723.
+LaTeX Font Info:    Font shape `OT1/Alegreya-LF/regular/it' will be
+(Font)              scaled to size 7.0pt on input line 723.
+<teta-0-10pi.png, id=427, 462.528pt x 346.896pt>
+File: teta-0-10pi.png Graphic file (type png)
+<use teta-0-10pi.png>
+Package pdftex.def Info: teta-0-10pi.png  used on input line 728.
+(pdftex.def)             Requested size: 243.65135pt x 182.74242pt.
+
+Overfull \hbox (22.15135pt too wide) in paragraph at lines 728--729
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<teta-0-25pi.png, id=428, 462.528pt x 346.896pt>
+File: teta-0-25pi.png Graphic file (type png)
+<use teta-0-25pi.png>
+Package pdftex.def Info: teta-0-25pi.png  used on input line 740.
+(pdftex.def)             Requested size: 243.65135pt x 182.74242pt.
+
+Overfull \hbox (22.15135pt too wide) in paragraph at lines 740--741
+ [][] 
+ []
+
+<teta-0-50pi.png, id=429, 462.528pt x 346.896pt>
+File: teta-0-50pi.png Graphic file (type png)
+<use teta-0-50pi.png>
+Package pdftex.def Info: teta-0-50pi.png  used on input line 746.
+(pdftex.def)             Requested size: 243.65135pt x 182.74242pt.
+
+Overfull \hbox (22.15135pt too wide) in paragraph at lines 746--747
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<teta-0-75pi.png, id=430, 462.528pt x 346.896pt>
+File: teta-0-75pi.png Graphic file (type png)
+<use teta-0-75pi.png>
+Package pdftex.def Info: teta-0-75pi.png  used on input line 758.
+(pdftex.def)             Requested size: 243.65135pt x 182.74242pt.
+
+Overfull \hbox (22.15135pt too wide) in paragraph at lines 758--759
+ [][] 
+ []
+
+<teta-0-90pi.png, id=431, 462.528pt x 346.896pt>
+File: teta-0-90pi.png Graphic file (type png)
+<use teta-0-90pi.png>
+Package pdftex.def Info: teta-0-90pi.png  used on input line 764.
+(pdftex.def)             Requested size: 243.65135pt x 182.74242pt.
+
+Overfull \hbox (22.15135pt too wide) in paragraph at lines 764--765
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(./theta-tudo-tempo-sn.py
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+[25 <./teta-0-01pi.png> <./teta-0-10pi.png> <./teta-0-25pi.png> <./teta-0-50pi.
+png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./teta-0-75pi.png> <./teta-0-90pi.png>])
+<teta-tudo.png, id=506, 462.528pt x 346.896pt>
+File: teta-tudo.png Graphic file (type png)
+<use teta-tudo.png>
+Package pdftex.def Info: teta-tudo.png  used on input line 776.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+ [27 <./teta-tudo.png>] [28pdfTeX warning (ext4): destination with the same ide
+ntifier (name{equation.1.3.54}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.828 \end{eqnarray}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.1.3.57}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.828 \end{eqnarray}
+                    ] [29pdfTeX warning (ext4): destination with the same ident
+ifier (name{equation.1.3.59}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.869 \end{eqnarray}
+                    ] (./theta-tempo-2-tudo.py [30pdfTeX warning (ext4): destin
+ation with the same identifier (name{equation.1.3.66}) has been already used, d
+uplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.4 #
+      npontos é  o número de pontos no gráfico])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+<teta-tudo-2.png, id=602, 462.528pt x 346.896pt>
+File: teta-tudo-2.png Graphic file (type png)
+<use teta-tudo-2.png>
+Package pdftex.def Info: teta-tudo-2.png  used on input line 893.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+
+[32 <./teta-tudo-2.png>]
+Package lettrine.sty Info: Targeted height = 24.12045pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 31.35677pt (A) loversize=0.3;
+(lettrine.sty)             reported on input line 899.
+ [33
+
+pdfTeX warning (ext4): destination with the same identifier (name{equation.2.0.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.924 \end{eqnarray}
+                    ] [34] [35pdfTeX warning (ext4): destination with the same 
+identifier (name{equation.2.1.8}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1053 \end{equation}
+                     ]
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/m/n' in size <14.4> not avai
+lable
+(Font)              Font shape `T1/AlegreyaSans-LF/regular/n' tried instead on 
+input line 1070.
+LaTeX Font Info:    Font shape `T1/AlegreyaSans-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 1070.
+ [36] (./amortecido-forte.py [37pdfTeX warning (ext4): destination with the sam
+e identifier (name{equation.2.1.29}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 #
+      npontos é  o número de pontos no gráfico]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38])
+<forte-1.png, id=719, 462.528pt x 346.896pt>
+File: forte-1.png Graphic file (type png)
+<use forte-1.png>
+Package pdftex.def Info: forte-1.png  used on input line 1181.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+
+[39 <./forte-1.png>]
+<forte-2.png, id=733, 462.528pt x 346.896pt>
+File: forte-2.png Graphic file (type png)
+<use forte-2.png>
+Package pdftex.def Info: forte-2.png  used on input line 1191.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+ (./fase-forte.py [40 <./forte-2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41])
+<forte-fase-1.png, id=786, 462.528pt x 346.896pt>
+File: forte-fase-1.png Graphic file (type png)
+<use forte-fase-1.png>
+Package pdftex.def Info: forte-fase-1.png  used on input line 1202.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+ [42 <./forte-fase-1.png>] [43] [44pdfTeX warning (ext4): destination with the 
+same identifier (name{equation.2.1.39}) has been already used, duplicate ignore
+d
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1361 \end{equation}
+                     ] (./amortecido-critico.py [45pdfTeX warning (ext4): desti
+nation with the same identifier (name{equation.2.1.46}) has been already used, 
+duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.22 t 
+       = np.arange(0.0, Tt, Tt / float(npontos))])
+<critico-1.png, id=853, 462.528pt x 346.896pt>
+File: critico-1.png Graphic file (type png)
+<use critico-1.png>
+Package pdftex.def Info: critico-1.png  used on input line 1390.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+ (./ODE-solutions.py [46]
+[47 <./critico-1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49])
+<caso-geral-1.png, id=983, 462.528pt x 346.896pt>
+File: caso-geral-1.png Graphic file (type png)
+<use caso-geral-1.png>
+Package pdftex.def Info: caso-geral-1.png  used on input line 1403.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+
+(./ODE-solutions-fase.py
+Underfull \vbox (badness 7291) has occurred while \output is active []
+
+ [50 <./caso-geral-1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52])
+<caso-geral-2.png, id=1081, 462.528pt x 346.896pt>
+File: caso-geral-2.png Graphic file (type png)
+<use caso-geral-2.png>
+Package pdftex.def Info: caso-geral-2.png  used on input line 1412.
+(pdftex.def)             Requested size: 443.0pt x 332.26472pt.
+
+(./livro-1.bbl (./livro-1.brf)
+\tf@brf=\write4
+\openout4 = `livro-1.brf'.
+
+ [53] [54 <./caso-geral-2.png>]
+bibitemlist
+) [55
+
+]
+\tf@toc=\write5
+\openout5 = `livro-1.toc'.
+
+\tf@lof=\write6
+\openout6 = `livro-1.lof'.
+
+\tf@lol=\write7
+\openout7 = `livro-1.lol'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1420.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1420.
+ (./livro-1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1420.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1420.
+
+Package rerunfilecheck Info: File `livro-1.brf' has not changed.
+(rerunfilecheck)             Checksum: D1DC75140225795AAC0494A6C809202C;183.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1420.
+ ) 
+Here is how much of TeX's memory you used:
+ 24648 strings out of 481239
+ 382815 string characters out of 5920378
+ 962122 words of memory out of 5000000
+ 38546 multiletter control sequences out of 15000+600000
+ 973081 words of font info for 297 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,18n,100p,1344b,2231s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_fbntfe.enc}{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_nwaz6g.enc}{/usr/share/
+texlive/texmf-dist/fonts/enc/dvips/alegreya/algr_tf5zvx.enc}{/usr/share/texlive
+/texmf-dist/fonts/enc/dvips/fira/fir_i3ioen.enc}{/usr/share/texlive/texmf-dist/
+fonts/enc/dvips/alegreya/algr_dfcgiv.enc}{/usr/share/texlive/texmf-dist/fonts/e
+nc/dvips/alegreya/algr_2vgxay.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvip
+s/alegreya/algr_jfvu45.enc}</usr/share/texlive/texmf-dist/fonts/type1/huerta/al
+egreya/Alegreya-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/huerta/aleg
+reya/Alegreya-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/huerta/aleg
+reya/Alegreya-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/huerta/ale
+greya/AlegreyaSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/huerta/a
+legreya/AlegreyaSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/fira/FiraMono-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/newtx/NewTXMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewT
+XMI7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txexs.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/txfonts/txsyb.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/newtx/txsys.pfb>
+Output written on livro-1.pdf (57 pages, 1075275 bytes).
+PDF statistics:
+ 1380 PDF objects out of 1440 (max. 8388607)
+ 1249 compressed objects within 13 object streams
+ 696 named destinations out of 1000 (max. 500000)
+ 31955 words of extra memory for PDF output out of 35830 (max. 10000000)
+

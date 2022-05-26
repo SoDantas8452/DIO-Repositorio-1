@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: livro-1.aux
+The style file: plain.bst
+Illegal, another \bibstyle command---line 193 of file livro-1.aux
+ : \bibstyle
+ :          {abntex2-num}
+I'm skipping whatever remains of this command
+Database file #1: abntex2-options.bib
+Warning--entry type for "abnt-url-package=url" isn't style-file defined
+--line 199 of file abntex2-options.bib
+Database file #2: livro-1.bib
+"{" immediately follows a field name---line 7 of file livro-1.bib
+ : year
+ :     {2007}}
+I'm skipping whatever remains of this entry
+Warning--all relevant fields are empty in abnt-url-package=url
+Warning--empty year in bcmbn
+Warning--empty title in abramo
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            511 strings with 4325 characters,
+and the built_in function-call counts, 850 in all, are:
+= -- 68
+> -- 47
+< -- 0
++ -- 19
+- -- 16
+* -- 63
+:= -- 140
+add.period$ -- 6
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 30
+empty$ -- 72
+format.name$ -- 16
+if$ -- 172
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 15
+num.names$ -- 4
+pop$ -- 27
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 23
+stack$ -- 0
+substring$ -- 36
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 3
+while$ -- 5
+width$ -- 4
+write$ -- 25
+(There were 2 error messages)
